@@ -91,11 +91,8 @@ src="https://github-readme-stats.vercel.app/api?username=Bhanugubba&show_icons=t
  <br>
 
  <h2 align="center">My contribution Streak 🔥</h2>
+ <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Bhanugubba&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
+ </p> 
  
-  <h2 align="center">Frequently used Language 📺</h2>
-<p align="center">
-  <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reddevill007&theme=dark&hide_border=true&background=22272e&stroke=0000"/>
-  </a>
- </p>
+
