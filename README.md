@@ -84,7 +84,7 @@ src="https://github-readme-stats.vercel.app/api?username=Bhanugubba&show_icons=t
    </p>
  <br>
   <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/Bhanugubba/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Bhanugubba&theme=onedark" alt="Bhanugubba" /> 
   </a>
 </p>
