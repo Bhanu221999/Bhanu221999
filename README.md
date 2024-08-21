@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Bhanu Shankar Gubba](Designer%20(2).png)
 # Hi there, I'm Bhanu Shankar Gubba 👋
 
