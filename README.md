@@ -74,25 +74,5 @@
     <a href="#"><img alt="DOCKER" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
 </p>
 
-<h2 align="center">My Github Statistics 🔥</h2>   
-<br>
-<p align="center">
-<a href="https://github.com/Bhanugubba">
-<img align="center" alt="Bhanugubba's Github stats"
-src="https://github-readme-stats.vercel.app/api?username=Bhanugubba&show_icons=true&bg_color=00000000"/>
-</a>
-   </p>
- <br>
-  <p align="center"> 
-  <a href="https://github.com/Bhanugubba/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Bhanugubba&theme=onedark" alt="Bhanugubba" /> 
-  </a>
-</p>
- <br>
 
- <h2 align="center">My contribution Streak 🔥</h2>
- <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Bhanugubba&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
- </p> 
- 
 
