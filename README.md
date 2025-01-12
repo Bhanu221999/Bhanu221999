@@ -2,7 +2,7 @@
 ![Bhanu Shankar Gubba](Designer%20(2).png)
 # Hi there, I'm Bhanu Shankar Gubba 👋
 
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Bhanu221999/)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Bhanugubba/)
 [![Codechef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/amaze_care_00)
 
 
