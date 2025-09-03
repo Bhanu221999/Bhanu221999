@@ -7,10 +7,10 @@
 
 
 
-# I'm a Student, and Developer!!!
+# I'm a Developer!!!
 
 - 🌱 I’m currently learning everything 📝
-- 📫 How to reach me gbhanushankar1999@gmail.com
+- 📫 How to reach me bhanushankar114@gmail.com
 - 👨‍💻 Goals: Contribute more to Open Source projects 👨‍💻
 - ⚡ Fun fact: I love photography 📸 and editing 👾
 
